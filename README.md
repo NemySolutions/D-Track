@@ -3,6 +3,7 @@ Team Name : Nemy
 Business Challenge : Operations, Tracking Inventory to Reduce Wastage
 
 Functionalities : 
+
 SIA Team
 - Track Overall Inventory and Surplus/Shortages
 - Tracking by Individual Caterers
